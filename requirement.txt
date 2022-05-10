@@ -1,0 +1,2 @@
+lscpu
+apt-get update
